@@ -1,5 +1,31 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## STEPS
+
+1. copy git url from the green 'code' button dropdown (url is https://github.com/mattbrc/falstrike.git)
+2. in your terminal, run `cd Desktop` then `mkdir [directory-name]` (directory name can be anything you want, this is where we'll store the project)
+3. run `cd [directory-name]`
+4. run `git clone https://github.com/mattbrc/falstrike.git`
+5. run `cd falstrike`
+6. run `npm install`
+7. run `npm run dev` - then open localhost:3000 in your browser to make sure it works
+8. you can then close the browser and type ctrl+c in your terminal to stop the server
+9. open vercel, make sure you're logged in with your github
+10. go back to github, in the top right click the '+' icon and click 'New repository'
+11. call it the same thing as the directory name (e.g. if you called it 'falstrike' then call it 'falstrike')
+12. click 'Create repository'
+13. follow the steps to push the repo you cloned to github (in the same terminal):
+    - `git init`
+    - `git add .`
+    - `git commit -m "first commit"`
+    - `git branch -M main`
+    - `git remote add origin https://github.com/[your-github-username]/falstrike.git`
+    - `git push -u origin main`
+14. go back to vercel, click 'New' then 'Project'
+15. select the repository you just created
+16. click 'Deploy'
+17. pretty much done. lmk if you any issues.
+
 ## Getting Started
 
 First, run the development server:
