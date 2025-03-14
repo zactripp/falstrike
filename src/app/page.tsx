@@ -131,9 +131,8 @@ export default function LandingPage() {
               ABOUT FALSTRIKE
             </h2>
             <p className="text-zinc-400">
-              Founded on principles of innovation and excellence, Falstrike
-              Aeronautics develops advanced aerospace systems for defense and
-              commercial applications.
+            Falstrike Aeronautics LLC pioneers precision drone solutions, specializing in tactical aerial technologies designed for professional applications in defense and public safety. As an FAA-licensed pilot, Falstrike Aeronautics offers exceptional aerial photography and videography services, delivering stunning visual content for diverse applications. Our advanced mapping solutions enable detailed analysis and accurate assessments of terrain and infrastructure, empowering decision-makers with critical insights through precise geospatial data. Our team consists of experts in Unmanned Aircraft Systems (UAS), proficient in both software integration and hardware customization. Falstrike Aeronautics excels in bridging technology gaps between varied UAS platforms, seamlessly integrating distinct product families to create tailored solutions optimized for any mission profile. Our agile approach ensures clients achieve operational excellence and mission readiness in any scenario.
+
             </p>
           </div>
 
